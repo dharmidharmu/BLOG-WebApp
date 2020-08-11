@@ -1,2 +1,2 @@
 # BLOG-WebApp
- simple blog app using hml, css, semantic ui, javascript, node, express, mongoose-database
+ simple blog app  semantic ui, javascript, node, express, mongoose-database, html ,css
